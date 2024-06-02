@@ -1,4 +1,4 @@
-# Stock Price Predictor
+# LSTM stock predictor
 
 ## Description
 
